@@ -10,7 +10,6 @@ Problem solver and fun lover
 - Laravel
 - Java 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning the Microservices concepts
 - 🤔 I’m looking for help with Open source projects
 
