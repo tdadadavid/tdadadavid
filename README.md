@@ -1,10 +1,15 @@
-### Hi there 👋, Dada David
+#Dada David
 #### Development
 ![Development](https://i.pinimg.com/736x/8c/96/93/8c969356e667e3aa0d145145e082e7ef--funny-geek-funny-shit.jpg)
 
 Problem solver and fun lover 
 
-Skills: php/laravel/ javascript/nodejs/ 
+## Skills:
+- Javascript
+- Nodejs
+- PHP
+- Laravel
+- Java 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning the Microservices concepts
