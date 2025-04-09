@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Interests
-<img width="996" alt="image" src="https://github.com/user-attachments/assets/bc27d716-e1f0-4f84-a7f9-1fca570bf6aa" />
+<img width="990" alt="github_symbol" src="https://github.com/user-attachments/assets/71b4ac9b-5c64-44a3-b5b3-d107cf0bbe51" />
 
 
 ## Notable Projects
