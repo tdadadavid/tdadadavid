@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am interested in *distributed systems*, *Infra*, *Databases* & *Protocols*
+## Interests
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/bc27d716-e1f0-4f84-a7f9-1fca570bf6aa" />
 
 
