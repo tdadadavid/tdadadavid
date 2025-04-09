@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Main circular connection -->
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#f39c12" stroke-width="3" stroke-dasharray="6,3"/>
+  
+  <!-- Protocol layers -->
+  <rect x="25" y="25" width="50" height="12" fill="#ffeaa7" stroke="#f39c12" stroke-width="1" rx="2" ry="2"/>
+  <rect x="25" y="40" width="50" height="12" fill="#ffeaa7" stroke="#f39c12" stroke-width="1" rx="2" ry="2"/>
+  <rect x="25" y="55" width="50" height="12" fill="#ffeaa7" stroke="#f39c12" stroke-width="1" rx="2" ry="2"/>
+  
+  <!-- Connection arrows -->
+  <path d="M35,25 L35,15 L25,20 Z" fill="#f39c12"/>
+  <path d="M65,37 L75,37 L70,45 Z" fill="#f39c12"/>
+  <path d="M35,67 L35,77 L25,72 Z" fill="#f39c12"/>
+  <path d="M65,55 L75,55 L70,63 Z" fill="#f39c12"/>
+  
+  <!-- Data flow -->
+  <path d="M10,50 Q30,10 50,35 T90,50 Q70,90 50,65 T10,50" fill="none" stroke="#f39c12" stroke-width="1.5" stroke-dasharray="2,2"/>
+</svg>
