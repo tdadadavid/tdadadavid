@@ -13,4 +13,4 @@
 
 ## On The Web
 
-* Website: [obadafidi.com](https://tdadadavid-portfolio.vercel.app/)
+* Website: [obadafidi.com](https://www.obadafidi.com)
