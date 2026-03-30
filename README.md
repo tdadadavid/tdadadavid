@@ -15,8 +15,9 @@ I am a software engineer experienced in crafting backend systems.
 
 ## On The Web
 
-* Website: [obadafidi.com](https://www.obadafidi.com)
-* [Contact](mailto:davitofunmidada@gmail.com)
+* [contact](mailto:davitofunmidada@gmail.com)
+* [obadafidi.com](https://www.obadafidi.com)
+
 
 <br/>
 
