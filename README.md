@@ -16,3 +16,8 @@ I am a software engineer experienced in crafting backend systems.
 ## On The Web
 
 * Website: [obadafidi.com](https://www.obadafidi.com)
+* [Contact](mailto:davitofunmidada@gmail.com)
+
+<br/>
+
+![counter](https://hits.sh/github.com/tdadadavid/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=visitors)
